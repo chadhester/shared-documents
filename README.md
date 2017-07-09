@@ -15,6 +15,5 @@ A collection of documents and resources shared with the community. Please feel f
 
 ## List of documents
 
-- [Educational Mastery Curve and Levels of Experience.pdf](https://github.com/chadhester/shared-documents/blob/master/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience.pdf).
-- [Educational Mastery Curve and Levels of Experience.png](https://github.com/chadhester/shared-documents/blob/master/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience.png).
+- [Educational Mastery Curve and Levels of Experience.pdf](https://github.com/chadhester/shared-documents/blob/master/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience.pdf) and [Educational Mastery Curve and Levels of Experience.png](https://github.com/chadhester/shared-documents/blob/master/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience/Educational%20Mastery%20Curve%20and%20Levels%20of%20Experience.png).
 
